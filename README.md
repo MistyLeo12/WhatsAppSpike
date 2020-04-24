@@ -11,8 +11,10 @@ A React App for a clinic based in Roatán, Honduras to notify and manage patient
 ## Current State
 
  <p align="center"> 
-    <img src="splash.png" width="350">
+    <img src="splash.png">
  </p>
+ 
+ ## Basic Performance Testing Of the Current State
   <p align="center"> 
-    <img src="performance.png" width="350">
+    <img src="performance.png">
  </p>
