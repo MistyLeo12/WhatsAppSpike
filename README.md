@@ -8,7 +8,7 @@ This is a Spike for where I learned how to implement WhatsApp into our app.
 A React App for a clinic based in Roatán, Honduras to notify and manage patients in remote areas that have appointments.
 
 
-## Current State
+## Current State During Spike
 
  <p align="center"> 
     <img src="splash.png">
